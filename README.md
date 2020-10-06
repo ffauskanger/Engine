@@ -1,2 +1,2 @@
 # Engine
-C# Engine taking use of OpenTK
+C# Graphics Engine taking use of OpenTK
