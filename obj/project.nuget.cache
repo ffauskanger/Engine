@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "qnL1v4pFdvpHKoy/uTCtlaqdBXXayFGGfiJ2FqLwrUhGE7NcTOsq+mlF5LSExsNusscqER9/RGrzbyK1SNgfWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fredrik\\Documents\\Programmeringsprosjekter\\C#\\Engine\\Engine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fredrik\\.nuget\\packages\\opentk\\4.0.1\\opentk.4.0.1.nupkg.sha512",
+    "C:\\Users\\Fredrik\\.nuget\\packages\\opentk.compute\\4.0.1\\opentk.compute.4.0.1.nupkg.sha512",
+    "C:\\Users\\Fredrik\\.nuget\\packages\\opentk.core\\4.0.1\\opentk.core.4.0.1.nupkg.sha512",
+    "C:\\Users\\Fredrik\\.nuget\\packages\\opentk.graphics\\4.0.1\\opentk.graphics.4.0.1.nupkg.sha512",
+    "C:\\Users\\Fredrik\\.nuget\\packages\\opentk.input\\4.0.1\\opentk.input.4.0.1.nupkg.sha512",
+    "C:\\Users\\Fredrik\\.nuget\\packages\\opentk.mathematics\\4.0.1\\opentk.mathematics.4.0.1.nupkg.sha512",
+    "C:\\Users\\Fredrik\\.nuget\\packages\\opentk.openal\\4.0.1\\opentk.openal.4.0.1.nupkg.sha512",
+    "C:\\Users\\Fredrik\\.nuget\\packages\\opentk.redist.glfw\\3.3.0-pre20200830200122\\opentk.redist.glfw.3.3.0-pre20200830200122.nupkg.sha512",
+    "C:\\Users\\Fredrik\\.nuget\\packages\\opentk.windowing.common\\4.0.1\\opentk.windowing.common.4.0.1.nupkg.sha512",
+    "C:\\Users\\Fredrik\\.nuget\\packages\\opentk.windowing.desktop\\4.0.1\\opentk.windowing.desktop.4.0.1.nupkg.sha512",
+    "C:\\Users\\Fredrik\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.0.1\\opentk.windowing.graphicslibraryframework.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
